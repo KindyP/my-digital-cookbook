@@ -1,5 +1,4 @@
 # my-digital-cookbook
 
 ## Welcome to my cooking journey!
-
-**Created by:**Kindy
+**Created by:** Kindy
